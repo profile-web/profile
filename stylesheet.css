@@ -168,16 +168,15 @@
     text-align: center;
   }
 
-  .message-wrapper img {
+  .rirekisho {
     display: inline-block;
     margin: 0 auto;
-  }
-
-  .rirekisho {
     width: 90%;
   }
 
   .shokumukeirekisho {
+    display: inline-block;
+    margin: 0 auto;
     width: 60%;
   }
   
@@ -253,6 +252,8 @@
     }
   }
     .shokumukeirekisho {
+        display: inline-block;
+        margin: 0 auto;
         width: 90%;
     }
   
@@ -311,5 +312,7 @@
   }
 
     .shokumukeirekisho {
+        display: inline-block;
+        margin: 0 auto;
         width: 90%;
     }
