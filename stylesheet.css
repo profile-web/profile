@@ -278,14 +278,18 @@
     }
   
     .lesson-wrapper {
-      height: 1080px;
+      height: 1200px;
     }
   
     .message-wrapper .btn {
       width: 100%;
     }
 
-    .font_size {
-        font-size: 10px;
-    }
+    .heading h2 {
+        font-size: 14px;
+      }
+
+    .heading p {
+        font-size: 12px;
+      }
   }
