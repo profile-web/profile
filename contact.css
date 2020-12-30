@@ -91,6 +91,15 @@ html {
   .profile-card header h1 {
     color: #FF5722;
   }
+
+  .top-logo img {
+    display: inline-block;
+    text-align: center;
+    margin: 25px 0;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+  }
   
   .profile-card header a {
     display: inline-block;
