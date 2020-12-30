@@ -201,7 +201,7 @@
   .hobby-wrapper .hobby-container{
     max-width:1000px;
     margin:0px auto;
-    padding:80px 0px;
+    padding:20px 0px;
  }
 
  .hobby-wrapper .hobby-container .hobby-content {
@@ -216,6 +216,10 @@
 
  .hobby-wrapper .hobby-content-item {
     width:50%;
+ }
+
+ .hobby-wrapper .hobby-content-items {
+    width:33%;
  }
 
  .hobby-wrapper .hobby-image{
