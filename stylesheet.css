@@ -251,11 +251,6 @@
       font-size: 20px;
     }
   }
-    .shokumukeirekisho {
-        display: inline-block;
-        margin: 0 auto;
-        width: 90%;
-    }
   
   @media all and (max-width: 670px) {
     .header-right {
@@ -310,9 +305,3 @@
         font-size: 12px;
       }
   }
-
-    .shokumukeirekisho {
-        display: inline-block;
-        margin: 0 auto;
-        width: 90%;
-    }
