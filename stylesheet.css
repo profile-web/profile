@@ -192,7 +192,49 @@
     top: 7px;
     box-shadow: none;
   }
-  
+
+  .hobby-wrapper{
+    width:100%;
+    background-color:#fafafa;
+ }
+
+  .hobby-wrapper .hobby-container{
+    max-width:1000px;
+    margin:0px auto;
+    padding:80px 0px;
+ }
+
+ .hobby-wrapper .hobby-container .hobby-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .hobby-wrapper .hobby-content-item {
+    width:100%;
+ }
+
+ .hobby-wrapper .hobby-content-item {
+    width:50%;
+ }
+
+ .hobby-wrapper .hobby-image{
+    display:block;
+    max-width:100%;
+    margin:0px auto;
+ }
+
+ .hobby-wrapper .hobby-text{
+    padding:50px;
+ }
+ 
+ .hobby-wrapper .hobby-text .hobby-heading{
+    margin:0px 0px 40px 0px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+ }
+
   footer img {
     width: 125px;
   }
