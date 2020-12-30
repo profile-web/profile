@@ -218,7 +218,7 @@
     }
   
     .lesson-wrapper {
-      height: 450px;
+      height: 540px;
     }
   
     footer {
@@ -278,18 +278,14 @@
     }
   
     .lesson-wrapper {
-      height: 900px;
+      height: 1080px;
     }
   
     .message-wrapper .btn {
       width: 100%;
     }
 
-    .heading h2 {
-        font-size: 14px;
-      }
-
-    .heading p {
-        font-size: 12px;
-      }
+    .font_size {
+        font-size: 10px;
+    }
   }
