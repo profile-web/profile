@@ -208,6 +208,10 @@
   }
   
   @media all and (max-width: 1000px) {
+    .hidden_wrapper {
+        visibility: hidden;
+      }
+
     .lesson {
       width: 50%;
       margin-bottom: 50px;
@@ -274,10 +278,18 @@
     }
   
     .lesson-wrapper {
-      height: 1700px;
+      height: 1260px;
     }
   
     .message-wrapper .btn {
       width: 100%;
     }
+
+    .heading h2 {
+        font-size: 14px;
+      }
+
+    .heading p {
+        font-size: 12px;
+      }
   }
