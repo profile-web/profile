@@ -149,6 +149,10 @@ html {
     text-align: center;
   }
 
+  .profile-card .profile-bio p {
+    font-size: 13px;
+  }
+
   .profile-card .profile-bio {
     width: 175px;
     height: 180px;
