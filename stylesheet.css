@@ -213,12 +213,12 @@
       }
 
     .lesson {
-      width: 50%;
+      width: 33%;
       margin-bottom: 50px;
     }
   
     .lesson-wrapper {
-      height: 990px;
+      height: 450px;
     }
   
     footer {
@@ -278,7 +278,7 @@
     }
   
     .lesson-wrapper {
-      height: 1260px;
+      height: 900px;
     }
   
     .message-wrapper .btn {
