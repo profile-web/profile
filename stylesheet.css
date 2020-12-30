@@ -170,8 +170,15 @@
 
   .message-wrapper img {
     display: inline-block;
-    width: 90%;
     margin: 0 auto;
+  }
+
+  .rirekisho {
+    width: 90%;
+  }
+
+  .shokumukeirekisho {
+    width: 60%;
   }
   
   .message {
@@ -245,6 +252,9 @@
       font-size: 20px;
     }
   }
+    .shokumukeirekisho {
+        width: 90%;
+    }
   
   @media all and (max-width: 670px) {
     .header-right {
@@ -299,3 +309,7 @@
         font-size: 12px;
       }
   }
+
+    .shokumukeirekisho {
+        width: 90%;
+    }
