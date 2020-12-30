@@ -167,6 +167,12 @@
     padding-bottom: 80px;
     text-align: center;
   }
+
+  .message-wrapper img {
+    display: inline-block;
+    width: 90%;
+    margin: 0 auto;
+  }
   
   .message {
     padding: 15px 40px;
